@@ -1,0 +1,21 @@
+{
+  "name": "easy-readline",
+  "version": "1.0.3",
+  "description": "Simple readline for node",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test":"node ./lib/test.js"
+  },
+  "types": "./lib/index.d.ts",
+  "keywords": [
+    "simple-readline",
+    "async",
+    "readline"
+  ],
+  "author": "artegoser",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.4.3"
+  }
+}

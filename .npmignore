@@ -1,6 +1,9 @@
-##git-only
-/lib
-##git-only
+##npm-only
+/src
+/lib/test.d.ts
+/lib/test.js
+/lib/test.js.map
+##npm-only
 
 
 # Logs
