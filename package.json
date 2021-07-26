@@ -1,15 +1,19 @@
 {
   "name": "easy-readline",
-  "version": "1.0.3",
-  "description": "Simple readline for node",
+  "version": "1.0.4",
+  "description": "Easy readline for node",
   "main": "./lib/index.js",
   "scripts": {
     "build": "tsc",
     "test":"node ./lib/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/artegoser/easy-readline.git"
+  },
   "types": "./lib/index.d.ts",
   "keywords": [
-    "simple-readline",
+    "easy-readline",
     "async",
     "readline"
   ],

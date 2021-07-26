@@ -1,4 +1,4 @@
-# simple-readline
+# easy-readline
  
 Easily enter data through the console. 
 
